@@ -1,0 +1,23 @@
+============================================================================
+" Netrw Directory Listing                                        (netrw v184)
+"   /c
+"   Sorted by      name
+"   Sort sequence: [\/]$,*,\(\.bak\|\~\|\.o\|\.h\|\.info\|\.swp\|\.obj\)[*@]\=$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+$Recycle.Bin/
+$SysReset/
+../
+./
+AMD/
+Config.Msi/
+OneDriveTemp/
+PerfLogs/
+Program Files (x86)/
+Program Files/
+ProgramData/
+Recovery/
+Riot Games/
+System Volume Information/
+Users/
+/
